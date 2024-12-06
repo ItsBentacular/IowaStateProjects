@@ -1,0 +1,2 @@
+This is my first project as of freshman semester 1 2024, basically a menu based library of a bunch of conversions ranging from calculus to basic fluid conversions.
+Pretty Basic but should be a good starting point for someone just learning how to code in C language.
