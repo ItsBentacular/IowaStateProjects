@@ -2,15 +2,7 @@
 
 Randomizer for 2k21
 
-## Getting Started
+## 2k21 Randomizer
+Just an attempt to get a randomizer for my favorite 2k game so I can have random players in blacktop. It works, but not even half the players are added.
+If you do happen to find this and make it functional, the way to add more people to the randomizer is in the roster.txt file
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
