@@ -31,5 +31,5 @@ How to Build & Run
 
     Gamepad Support: Ensure the 'gamecontrollerdb.txt' mapping file is present in the specified include directory.
 
-    Compilation: Use a standard C++ compiler (G++/Clang) with the following include paths and linker flags:
-    -lglfw -lGL -ldl -lpthread
+    Compilation: Use a standard C++ compiler (G++ is what I use) with the following include paths and linker flags:
+    -lglfw -lGL -ldl
