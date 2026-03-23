@@ -1,2 +1,6 @@
 # Iowa State Projects
-Just some projects I make while I am at Iowa State pursuing my Bachellors in Software, I have projects spanning from C language terminal programs to mobile apps written in flutter/dart, and I'm always working on more!
+
+## Hi, I'm Ben Hurley
+**Software Engineering Sophomore @ Iowa State University(2028), Minors: AI/Machine Learning | Cybersecurity | Human-AI Interaction**
+
+These are my projects I am making while at ISU, these include both projects I have made in class and personal projects I make to expand my knowledge. My languages I use/understand are: C, C++, Java, JavaScript, HTML/CSS, Python, and Lua.
