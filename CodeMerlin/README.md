@@ -1,6 +1,6 @@
 CodeMerlin is a Python-based desktop application designed to provide automated, high-fidelity code reviews and performance optimizations. By leveraging locally-hosted Large Language Models (LLMs) via an OpenAI-compatible API, CodeMerlin analyzes source code for logical flaws, syntax errors, and algorithmic complexity (Big-O).
 
-Technical Stack
+Technical Stack:
 
     Language: Python 3.x
 
@@ -12,7 +12,7 @@ Technical Stack
 
     Prompt Engineering: Custom system-level instruction set for structural and logic-based auditing.
 
-Key Features
+Key Features:
 
     Multi-Language Support: File I/O capabilities for .java, .py, .cpp, .js, and more.
 
@@ -20,11 +20,11 @@ Key Features
 
     Big-O Optimization: Specifically tuned to detect inefficient loops and suggest mathematically superior alternatives.
 
-    Secure & Local: Designed to run entirely on a local machine (e.g., LM Studio) to ensure proprietary data privacy.
+    Secure & Local: Designed to run entirely on a local machine (e.g., LM Studio).
 
-System Architecture
+System Architecture:
 
-CodeMerlin acts as a middleware between the user and a local inference server:
+CodeMerlin acts as a middleware between the user and a local inference server.
 
     Ingestion: User loads source code via a native file explorer or manual paste.
 
@@ -34,7 +34,7 @@ CodeMerlin acts as a middleware between the user and a local inference server:
 
     Streaming UI: The response is decoded and injected into a read-only text area to prevent accidental modification during review.
 
-How to Run
+How to Run:
 
     Initialize Local Server: Ensure your local LLM server is running at http://localhost:1234.
 
