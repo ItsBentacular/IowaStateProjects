@@ -1,4 +1,4 @@
-ConversionMaster is a robust command-line interface (CLI) application authored in C. It serves as a centralized utility for performing complex unit conversions and mathematical approximations across five scientific and economic domains: Mathematics, Chemistry, Physics, Economics, and Basic Physical Measurements.
+ConversionMaster is a robust command-line interface (CLI) application authored in C. It serves as a centralized utility for performing complex unit conversions and mathematical approximations across five scientific and economic domains: Mathematics, Chemistry, Physics, Economics, and Basic Physical Measurements. This was my first ever project at ISU!
 
 Technical Stack
 
