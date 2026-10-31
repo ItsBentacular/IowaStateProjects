@@ -1,36 +1,15 @@
 # randomizer2k21
 
-A Randomizer for 2k21 I made during my free time freshman year at ISU
+A Randomizer for 2k21 I made during my free time freshman year at ISU; made using Dart/Flutter, really simple, just for me and my friends to use while playing 2k21
 
-Technical Stack
+How to Build & Run
 
-    Language: Dart
+1.) ensure flutter SDK is installed
 
-    Framework: Flutter (Material Design)
+2.) place a roster in assets folder labeled NbaRoster.txt, default included is mine
 
-    Data Management: Object-Oriented Player modeling and internal list-mapping
-
-    Concurrency: Async/Await for asset retrieval
-
-  Key Features
-
-    Dynamic Player Selection: Randomly selects from a parsed roster list to provide full player profiles, including team and rating data.
-
-    Parameterized Rating Generator: Uses a bounded random number generator (Rating=min+Random(max−min)) to simulate performance stats within user-specified limits.
-
-    High-Performance Text Parsing: Efficiently splits and cleans multi-line string data to ensure data integrity even with irregular input files.
-
-    Global State Management: Updates the application view in real-time using 'setState', ensuring a smooth and reactive user experience.
-
-
-  How to Build & Run
-
-    Environment Setup: Ensure the Flutter SDK is installed and configured.
-
-    Asset Configuration: Place the 'NbaRoster.txt' and 'wallpaper.jpg' files in the designated 'assets' directory.
-
-    Dependency Installation:
-    flutter pub get
-
-    Execution:
-    flutter run
+3.) for dependencies, run:
+    `flutter pub get`
+    
+4.) run with:
+    `flutter run`
