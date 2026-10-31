@@ -9,7 +9,7 @@ Build Instructions:
 We designed this project in the IntelliJ IDE, so maven is the easiest way to compile the program.
 
 Clean and Install:
-mvn clean install
+`mvn clean install`
 
 Execute:
-mvn javafx:run
+`mvn javafx:run`
