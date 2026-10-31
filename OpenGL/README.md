@@ -1,0 +1,1 @@
+This is my WIP personal project, in which I am experimenting with both OpenGL and with Raytracers in order to expand my knowledge on graphics programming. the src folder includes both some basic OpenGL work that I am working on in my free time, and the BART folder is where I am experimenting with raytracing.
